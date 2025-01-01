@@ -2,5 +2,10 @@ I created file03
 hii
 hello
 good evening
+<<<<<<< HEAD
 apple
+=======
+welcome
+bye
+>>>>>>> fbb469d6bc1c565c0a48ce3ded14e3eb4ebb7c0a
 

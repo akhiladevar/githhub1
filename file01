@@ -1,8 +1,15 @@
 I created file01
 hii
 hello
+<<<<<<< HEAD
 abc
 xyz
 hello world
 git hub
 
+=======
+pink
+white
+green
+black
+>>>>>>> 57fc38c12238528eef675361cefbe4e540174fcf
